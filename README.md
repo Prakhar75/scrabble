@@ -1,2 +1,2 @@
 # scrabble
-just a new project xD
+just a new project , C code for the game of scrabble...
